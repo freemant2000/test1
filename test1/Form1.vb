@@ -4,7 +4,7 @@
 
     Private Sub Form1_KeyDown(sender As Object, e As KeyEventArgs) Handles MyBase.KeyDown
         If e.KeyCode = Keys.M Then
-            PictureBox1.Height = PictureBox1.Height + 30
+            PictureBox1.Height = PictureBox1.Height + 34
 
 
 
